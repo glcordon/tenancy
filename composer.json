@@ -1,5 +1,5 @@
 {
-    "name": "gcordon/tenancy",
+    "name": "glcordon/tenancyl7",
     "description": "A Laravel multi-database tenancy package that respects your code.",
     "keywords": ["laravel", "multi-tenancy", "multi-database", "tenancy"],
     "license": "MIT",
